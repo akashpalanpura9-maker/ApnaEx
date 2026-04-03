@@ -10,7 +10,7 @@ API_HASH = os.environ.get("API_HASH","d77da7119f3eb008fc979350c1e2a337")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8695492568:AAGZD29dKXWRyBXln3CJpXK0-dEF242UQdM")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Websankulallinoneplanner_bot")
-BOT_TEXT = "@Websankulallinoneplanner_bot"
+BOT_TEXT = "GAJJU BHAI KA EXTRACTOR"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "597884603"))
 # ------------------------------------------------
@@ -18,7 +18,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "597884603"))
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001387154670"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1001387154670")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "1002195125473")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://besib69802:YMOfgvnyjbRgW5qt@cluster0.yzzu2gn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
